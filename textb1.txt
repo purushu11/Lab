@@ -1,1 +1,3 @@
 Text file of Branch B1
+
+New Line for difference
